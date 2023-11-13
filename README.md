@@ -24,7 +24,7 @@ Check out the live demo of the Hangman Game [here](#).
 - Win and lose scenarios with corresponding messages.
 - Responsive design for a seamless experience on different devices.
 
-## Getting Started
+## Run Locally
 
 To run the Hangman Game locally, follow these steps:
 
