@@ -10,7 +10,6 @@ Welcome to the Hangman Game project! This project is a simple implementation of 
 - [How to Play](#how-to-play)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
