@@ -6,7 +6,7 @@ Welcome to the Hangman Game project! This project is a simple implementation of 
 
 - [Demo](#demo)
 - [Features](#features)
-- [Getting Started](#getting-started)
+- [Run Locally](#run-locally)
 - [How to Play](#how-to-play)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
